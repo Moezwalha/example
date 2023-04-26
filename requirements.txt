@@ -1,3 +1,4 @@
 Flask
 pip==23.1
+numpy==1.24.2
 gunicorn
